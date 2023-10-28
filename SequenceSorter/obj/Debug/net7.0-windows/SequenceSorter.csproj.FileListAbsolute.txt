@@ -12,3 +12,17 @@ D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\refint\SequenceSorte
 D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.pdb
 D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.genruntimeconfig.cache
 D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\ref\SequenceSorter.dll
+D:\Projects\SequenceSorter\SequenceSorter\bin\Debug\net7.0-windows\SequenceSorter.exe
+D:\Projects\SequenceSorter\SequenceSorter\bin\Debug\net7.0-windows\SequenceSorter.deps.json
+D:\Projects\SequenceSorter\SequenceSorter\bin\Debug\net7.0-windows\SequenceSorter.runtimeconfig.json
+D:\Projects\SequenceSorter\SequenceSorter\bin\Debug\net7.0-windows\SequenceSorter.dll
+D:\Projects\SequenceSorter\SequenceSorter\bin\Debug\net7.0-windows\SequenceSorter.pdb
+D:\Projects\SequenceSorter\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SequenceSorter\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.AssemblyInfoInputs.cache
+D:\Projects\SequenceSorter\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.AssemblyInfo.cs
+D:\Projects\SequenceSorter\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.csproj.CoreCompileInputs.cache
+D:\Projects\SequenceSorter\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.dll
+D:\Projects\SequenceSorter\SequenceSorter\obj\Debug\net7.0-windows\refint\SequenceSorter.dll
+D:\Projects\SequenceSorter\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.pdb
+D:\Projects\SequenceSorter\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.genruntimeconfig.cache
+D:\Projects\SequenceSorter\SequenceSorter\obj\Debug\net7.0-windows\ref\SequenceSorter.dll
