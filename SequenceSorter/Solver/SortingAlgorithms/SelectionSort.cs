@@ -8,16 +8,16 @@ public class SelectionSort : ISortingAlgorithm
 
     public int IndexOfLast { get; private set; }
     public int ValueOfLast { get; private set; }
-    public int[] CurrentSequence { get; set; } = null!;
+    
     public bool IsSolved { get; private set; }
 
+    private int[] _currentSequence = null!;
     private int _currentIndex;
     private bool _isInitialized; 
-
     
     public void Initialize(int[] inputSequence)
     {
-        CurrentSequence = inputSequence ?? throw new ArgumentNullException(nameof(inputSequence));
+        _currentSequence = inputSequence ?? throw new ArgumentNullException(nameof(inputSequence));
         _isInitialized = true;
     }
 
@@ -33,38 +33,38 @@ public class SelectionSort : ISortingAlgorithm
 
         if (_currentIndex == 0)
         {
-            lowestValue = CurrentSequence[0];
+            lowestValue = _currentSequence[0];
         }
 
-        if (_currentIndex >= CurrentSequence.Length -1)
+        if (_currentIndex >= _currentSequence.Length -1)
         {
             IsSolved = true;
-            return CurrentSequence;
+            return _currentSequence;
         }
         
-        for (var i = _currentIndex; i < CurrentSequence.Length; i++)
+        for (var i = _currentIndex; i < _currentSequence.Length; i++)
         {
-            if (CurrentSequence[i] < lowestValue)
+            if (_currentSequence[i] < lowestValue)
             {
-                lowestValue = CurrentSequence[i];
+                lowestValue = _currentSequence[i];
                 lowestIndex = i;
             }
 
-            if (_currentIndex == CurrentSequence.Length - 1)
+            if (_currentIndex == _currentSequence.Length - 1)
             {
-                return CurrentSequence;
+                return _currentSequence;
             }
         }
         
         IndexOfLast = _currentIndex;
-        ValueOfLast = CurrentSequence[_currentIndex];
+        ValueOfLast = _currentSequence[_currentIndex];
 
-        var currentValue = CurrentSequence[_currentIndex];
-        CurrentSequence[_currentIndex] = lowestValue;
-        CurrentSequence[lowestIndex] = currentValue;
+        var currentValue = _currentSequence[_currentIndex];
+        _currentSequence[_currentIndex] = lowestValue;
+        _currentSequence[lowestIndex] = currentValue;
         
         _currentIndex++;
 
-        return CurrentSequence;
+        return _currentSequence;
     }
 }
