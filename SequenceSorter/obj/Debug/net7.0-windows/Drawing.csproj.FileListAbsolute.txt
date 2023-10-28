@@ -1,0 +1,14 @@
+D:\Projects\Drawing\Drawing\bin\Debug\net7.0-windows\Drawing.exe
+D:\Projects\Drawing\Drawing\bin\Debug\net7.0-windows\Drawing.deps.json
+D:\Projects\Drawing\Drawing\bin\Debug\net7.0-windows\Drawing.runtimeconfig.json
+D:\Projects\Drawing\Drawing\bin\Debug\net7.0-windows\Drawing.dll
+D:\Projects\Drawing\Drawing\bin\Debug\net7.0-windows\Drawing.pdb
+D:\Projects\Drawing\Drawing\obj\Debug\net7.0-windows\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Drawing\Drawing\obj\Debug\net7.0-windows\Drawing.AssemblyInfoInputs.cache
+D:\Projects\Drawing\Drawing\obj\Debug\net7.0-windows\Drawing.AssemblyInfo.cs
+D:\Projects\Drawing\Drawing\obj\Debug\net7.0-windows\Drawing.csproj.CoreCompileInputs.cache
+D:\Projects\Drawing\Drawing\obj\Debug\net7.0-windows\Drawing.dll
+D:\Projects\Drawing\Drawing\obj\Debug\net7.0-windows\refint\Drawing.dll
+D:\Projects\Drawing\Drawing\obj\Debug\net7.0-windows\Drawing.pdb
+D:\Projects\Drawing\Drawing\obj\Debug\net7.0-windows\Drawing.genruntimeconfig.cache
+D:\Projects\Drawing\Drawing\obj\Debug\net7.0-windows\ref\Drawing.dll

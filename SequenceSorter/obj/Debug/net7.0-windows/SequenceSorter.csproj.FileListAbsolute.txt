@@ -1,0 +1,14 @@
+D:\Projects\Drawing\SequenceSorter\bin\Debug\net7.0-windows\SequenceSorter.exe
+D:\Projects\Drawing\SequenceSorter\bin\Debug\net7.0-windows\SequenceSorter.deps.json
+D:\Projects\Drawing\SequenceSorter\bin\Debug\net7.0-windows\SequenceSorter.runtimeconfig.json
+D:\Projects\Drawing\SequenceSorter\bin\Debug\net7.0-windows\SequenceSorter.dll
+D:\Projects\Drawing\SequenceSorter\bin\Debug\net7.0-windows\SequenceSorter.pdb
+D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.AssemblyInfoInputs.cache
+D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.AssemblyInfo.cs
+D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.csproj.CoreCompileInputs.cache
+D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.dll
+D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\refint\SequenceSorter.dll
+D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.pdb
+D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\SequenceSorter.genruntimeconfig.cache
+D:\Projects\Drawing\SequenceSorter\obj\Debug\net7.0-windows\ref\SequenceSorter.dll
