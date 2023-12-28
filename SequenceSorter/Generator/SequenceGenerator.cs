@@ -6,9 +6,7 @@ public class SequenceGenerator
     private readonly int _maxValue;
     private readonly Random _rng;
 
-    public SequenceGenerator(int minValue, int maxValue) : this(minValue, maxValue, 1) { }
-    
-    public SequenceGenerator(int minValue, int maxValue, int seed)
+    public SequenceGenerator(int minValue, int maxValue, int seed = 1)
     {
         if (_minValue > _maxValue)
         {

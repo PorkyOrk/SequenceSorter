@@ -1,4 +1,4 @@
-﻿namespace SequenceSorter.Solver.SortingAlgorithms;
+﻿namespace SequenceSorter.Solver;
 
 public interface ISortingAlgorithm
 {

@@ -1,4 +1,6 @@
-﻿namespace SequenceSorter.Solver.SortingAlgorithms;
+﻿using SequenceSorter.Solver;
+
+namespace SequenceSorter.Algorithms;
 
 public class SelectionSort : ISortingAlgorithm
 {
